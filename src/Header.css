@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(244, 211, 237);
+}
+.card {
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 500px;
+  background-color: rgb(245, 220, 197);
+  box-shadow: 5px 5px 5px;
+}
+.header {
+  text-align: center;
+}
+.timeDate {
+  text-align: center;
+  font-weight: bold;
+}
+hr {
+  color: black;
+  border: 1px solid black;
+}
+.search {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.search-btn {
+  width: 100px;
+  padding: 5px;
+  border-radius: 5px;
+  border-width: 1px;
+  background-color: rgb(226, 204, 252);
+  cursor: pointer;
+}
+.search-btn:hover {
+  background-color: rgb(213, 183, 248);
+}
+
+.search-bar {
+  width: 300px;
+  padding: 5px;
+  border-radius: 5px;
+  border-width: 1px;
+}
